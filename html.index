@@ -1,0 +1,16 @@
+
+<html>
+  <body>
+    <button id="register">Register</button>
+    <button id="login">Login</button>
+    <script>
+      async function bufferToBase64(b){ return btoa(String.fromCharCode(...new Uint8Array(b))); }
+      async function base64ToBuffer(s){ return Uint8Array.from(atob(s), c=>c.charCodeAt(0)).buffer; }
+
+<html>
+  <body>
+    <button id="register">Register</button>
+    <button id="login">Login</button>
+    <script>
+      async function bufferToBase64(b){ return btoa(String.fromCharCode(...new Uint8Array(b))); }
+      async function base64ToBuffer(s){ return Uint8Array.from(atob(s), c=>c.charCodeAt(0)).buffer; }
