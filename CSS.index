@@ -1,0 +1,78 @@
+:root {
+  --bg: #000000;
+  --cyan: #00e5ff;
+  --red: #ff2e63;
+  --offwhite: #e6faff;
+}
+
+html, body {
+  height: 100%;
+  background: radial-gradient(120% 120% at 50% 50%, #02121f 0%, var(--bg) 70%);
+  color: var(--offwhite);
+}
+
+#particles-js {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  opacity: 0.35; /* keep subtle */
+}
+
+.brand, .auth {
+  position: relative;
+  z-index: 1;
+}
+
+.brand {
+  position: fixed;
+  top: 24px;
+  left: 24px;
+  color: var(--offwhite);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.brand .logo {
+  color: var(--red);
+}
+
+.auth {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 340px;
+  padding: 20px;
+  border-radius: 16px;
+  backdrop-filter: blur(8px);
+  background: linear-gradient(180deg, rgba(0, 229, 255, 0.08), rgba(255, 46, 99, 0.08));
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+
+input, button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(230, 250, 255, 0.12);
+  background: rgba(4, 20, 26, 0.6);
+  color: var(--offwhite);
+}
+
+button {
+  background: linear-gradient(90deg, var(--cyan), var(--red));
+  color: #04141a;
+  font-weight: 800;
+  border: none;
+}
+
+button.ghost {
+  background: transparent;
+  color: var(--offwhite);
+  border: 1px solid rgba(230, 250, 255, 0.15);
+}
+
+.divider {
+  text-align: center;
+  opacity: 0.7;
+  margin: 10px 0;
+}
