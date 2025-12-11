@@ -1,34 +1,27 @@
-# Readme.md 
 
-✊🤞👆 I learned ASL from a born deaf girl, whoom changed my life. I love you, Izzy
-😭
+<html>
+  <body>
+    <button id="register">Register</button>
+    <button id="login">Login</button>
+    <script>
+      async function bufferToBase64(b){ return btoa(String.fromCharCode(...new Uint8Array(b))); }
+      async function base64ToBuffer(s){ return Uint8Array.from(atob(s), c=>c.charCodeAt(0)).buffer; }
 
-🌑🌒🌓🌔🌕🌖🌗🌘 In A Night Owl. So, I enjoy the moon ligh
+<html>
+  <body>
+    <button id="register">Register</button>
+    <button id="login">Login</button>
+    <script>
+      async function bufferToBase64(b){ return btoa(String.fromCharCode(...new Uint8Array(b))); }
+      async function base64ToBuffer(s){ return Uint8Array.from(atob(s), c=>c.charCodeAt(0)).buffer; }
+© 2025 Frank C. Francis
+Licensed under CC BY-NC-ND 4.0
+Protected under the United States Data Privacy Act of 2021
+Policy: Unsigned OTA packages and adobe.io-sourced files are blocked and not processed.
 
-✈️✈️ I love to travel
-
- 🇿🇦 Cape Town, ZA, os was favorite 
- 🇸🇲 Egypt, Mi Amore, Inshalla (MPBUH)
- 
- 🇯🇴🇯🇴🇯🇴🇯🇴🇯🇴🇯🇴🇯🇴🇯🇴 Pro Philistine #LiberatePhilistine 
- movementt since '06
- 
- 🏴‍☠️ ex-Priate
-
-🥑🥬🥝🫒🍛 Enjoy Eating my greens
-
-🍯🌐💻 Changing career paths due to lifes lessons,  i keanred honeypots are my favorites. 
-
-🖥️📓📝📊 Always wanting educate myself 
-
-📈📉📂 Pushin Paper
-
-🪬 Namaste 
-
-📲 Its on Silent
-
-
-
+© 2025 Frank C. Francis —
+Licensed under CC BY-NC-ND 4.0 | Privacy Act 2021
+OTA misuse prohibited | Contracts override EU law
 
 
 
