@@ -21,8 +21,9 @@
 
 🖥️📓📝📊 Always wanting educate myself 
 
-<https://github-profile-trophy.vercel.app/?wkt12=ryo-ma&theme=apprentice>
-<https://github-profile-trophy.vercel.app/?wkt12=ryo-ma&theme=matrix>
+</https://github-profile-trophy.vercel.app/?wkt12=ryo-ma&theme=apprentice>
+
+
 
 
 ## Activism & Advocacy  
@@ -62,7 +63,12 @@ For more on my work with **#OpRollRedRoll**, check out this video:
 - **Learning:** Node.js, Python, Java, C++, Swift & Kotlin  
 - *Beginner—bear with me here!*
 
-
+"https://docs.google.com/document/d/1JZT5vSvzvm7wWoldCUR8ZZgXn72sQ0SrhkUMg0_27Ks/preview"
+    loading="lazy"
+    allowfullscreen
+    sandbox="allow-scripts allow-same-origin allow-popups allow-forms"
+  ></iframe>
+</div>
 
 
 
